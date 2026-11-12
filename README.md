@@ -119,6 +119,8 @@ Antes de executar, a IA devolveu este plano:
 
 A IA também confirmou que não enviaria nada a ninguém nem mexeria em arquivos. **Ajustes que fiz:** aprovei o plano sem mudanças, mantendo a atividade em duplas como parte principal da aula.
 
+> 📸 **COLE AQUI O PRINT DO PLANO** (apague esta linha e use Ctrl+V)
+
 ### O Resultado
 
 <details>
@@ -157,6 +159,8 @@ Mostre as duas respostas lado a lado e peça que os alunos apontem a diferença.
 **Para eu conferir:** se os tempos cabem na minha turma; se os exemplos fazem sentido para o público; se todos os alunos têm acesso a uma IA durante a atividade; testar os pedidos de exemplo na IA antes da aula.
 
 </details>
+
+> 📸 **COLE AQUI O PRINT DO RESULTADO** (apague esta linha e use Ctrl+V)
 
 **Como conferi antes de usar:** li o roteiro inteiro, testei os dois pedidos de exemplo (o ruim e o bom) na IA para ver se a diferença aparece, ajustei os tempos para a minha turma e só então usei.
 
